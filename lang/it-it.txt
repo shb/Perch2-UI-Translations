@@ -434,4 +434,7 @@
 	"Republishing: %s on page %s":"Ripubblicazione: %s on page %s",
 	"Republishing a lot of content can be slow and consume server resources.":"La ripubblicazione di molti contenuti pu\u00f2 essere lenta e consumare le risorse del server.",
 	"Republishing rebuilds the cached copy of each page. It is useful if you have changed a template and need to refresh existing content to pick up the change.":"La ripubblicazione ricostruisce la copia cache di ogni pagina. \u00c8 utile se \u00e8 stato modificato un modello e necessit\u00e0 di aggiornare i contenuti esistenti per applicare i cambiamenti.",
-	"Republishing completed successfully":"Ripubblicazione completato con successo"}
+	"Republishing completed successfully":"Ripubblicazione completato con successo",
+	"This page will have more pages below it":"Questa pagina avrà delle sottopagine",
+	"The file extension will be added automatically. Can be a full URL to create just a link.":"L'estensione del file verrà aggiunta in automatico. Può essere un URL completo per creare solo un link."
+}
